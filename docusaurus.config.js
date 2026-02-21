@@ -54,12 +54,12 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/neutralinojs/gsoc2026',
+          to: 'docs/release-notes/framework',
           label: 'Release Notes',
           position: 'left',
         },
         {
-          to: 'docs/release-notes/framework',
+          href: 'https://github.com/neutralinojs/gsoc2026',
           label: 'GSoC 2026',
           position: 'left',
         },
